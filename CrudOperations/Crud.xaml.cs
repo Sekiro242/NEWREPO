@@ -65,7 +65,7 @@ namespace CrudOperations
             tast.EmpPosition = StateB.Text;
             db.SaveChanges();
             refresh();
-            MessageBox.Show("Updated!");
+            MessageBox.Show("Updated Ya habibi");
 
 
         }
