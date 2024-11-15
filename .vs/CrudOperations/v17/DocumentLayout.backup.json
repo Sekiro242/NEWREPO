@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E77D42EF-3ED0-46C6-BD33-D54F8E6F21D2}|CrudOperations\\CrudOperations.csproj|c:\\users\\suef mahamed\\source\\repos\\crudoperations\\crudoperations\\crud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77D42EF-3ED0-46C6-BD33-D54F8E6F21D2}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\crud.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77D42EF-3ED0-46C6-BD33-D54F8E6F21D2}|CrudOperations\\CrudOperations.csproj|C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\crudoperations\\crud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E77D42EF-3ED0-46C6-BD33-D54F8E6F21D2}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\crud.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77D42EF-3ED0-46C6-BD33-D54F8E6F21D2}|CrudOperations\\CrudOperations.csproj|C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\crudoperations\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77D42EF-3ED0-46C6-BD33-D54F8E6F21D2}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77D42EF-3ED0-46C6-BD33-D54F8E6F21D2}|CrudOperations\\CrudOperations.csproj|c:\\users\\suef mahamed\\source\\repos\\crudoperations\\crudoperations\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E77D42EF-3ED0-46C6-BD33-D54F8E6F21D2}|CrudOperations\\CrudOperations.csproj|solutionrelative:crudoperations\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\CrudOperations\\Model1.edmx",
+              "RelativeDocumentMoniker": "CrudOperations\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\CrudOperations\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "CrudOperations\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-15T16:53:42.658Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crud.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\CrudOperations\\Crud.xaml.cs",
+              "RelativeDocumentMoniker": "CrudOperations\\Crud.xaml.cs",
+              "ToolTip": "C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\CrudOperations\\Crud.xaml.cs*",
+              "RelativeToolTip": "CrudOperations\\Crud.xaml.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAWwEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:42:54.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crud.xaml",
+              "DocumentMoniker": "C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\CrudOperations\\Crud.xaml",
+              "RelativeDocumentMoniker": "CrudOperations\\Crud.xaml",
+              "ToolTip": "C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\CrudOperations\\Crud.xaml",
+              "RelativeToolTip": "CrudOperations\\Crud.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T16:34:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\CrudOperations\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CrudOperations\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Suef Mahamed\\source\\repos\\CrudOperations\\CrudOperations\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CrudOperations\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:04:53.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
